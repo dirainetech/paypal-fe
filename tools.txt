@@ -1,0 +1,6 @@
+SDL is good using devops and agile framework
+Lnux is open source
+scripting is automation
+git is a DVCS
+aws is a cloud computing provider
+ec2 is virtual server in the cloud
